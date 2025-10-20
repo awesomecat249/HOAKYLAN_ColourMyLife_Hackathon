@@ -1,1 +1,0 @@
-# HOAKYLAN_ColourMyLife_Hackathon
