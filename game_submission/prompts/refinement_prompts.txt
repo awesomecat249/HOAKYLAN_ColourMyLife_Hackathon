@@ -3,3 +3,6 @@ remove the Save, New and Menu buttons as well as the log.
 replace all of the images with the following image.
 
 separate the 2 settings and gameplay interfaces.
+
+make it so that the translation actually translates everything from english into vietnamese, and improve the accuracy of
+load files.
